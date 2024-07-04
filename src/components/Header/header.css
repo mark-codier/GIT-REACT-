@@ -1,0 +1,8 @@
+header button{
+    outline: none;
+    background-color: #6b3b9d;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: #fff;
+    font-size: 20px;
+}
